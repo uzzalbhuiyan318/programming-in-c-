@@ -1,4 +1,5 @@
 /*
+Take an input and print the a pyramid like below.
 A
 B B
 C C C

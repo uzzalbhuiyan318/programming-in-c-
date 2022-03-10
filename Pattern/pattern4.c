@@ -1,5 +1,11 @@
 /*
-
+Take an input from user and print like a following pyramid
+1 
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+Author: Uzzal_Bhuiyan
 */
 #include<stdio.h>
 void main()
