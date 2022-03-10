@@ -1,5 +1,7 @@
 /*
 Take an input from user and print the following pattern.
+Sample input: 5
+Sample output: 
 1
 2 2
 3 3 3

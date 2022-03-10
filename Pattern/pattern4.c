@@ -1,5 +1,7 @@
 /*
 Take an input from user and print like a following pyramid
+Sample input: 5
+Sample output:
 1 
 1 2
 1 2 3

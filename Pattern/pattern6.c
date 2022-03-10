@@ -1,5 +1,7 @@
 /*
 Take an input and print the a pyramid like below.
+Sample input: E
+Sample output: 
 A
 B B
 C C C
@@ -14,9 +16,9 @@ void main()
     char ch;
     printf("Enter the size of pyramid: ");
     scanf("%c",&ch);
-    for(i='a';i<=ch;i++)
+    for(i='A';i<=ch;i++)
     {
-        for(j='a';j<=i;j++)
+        for(j='A';j<=i;j++)
         {
             printf("%c ",i);
         }
