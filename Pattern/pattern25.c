@@ -1,5 +1,5 @@
 /*
-Take an input from user and print cross shape or X shape pattern.
+Take an input from user and print following shape (cross shape or X shape)
 Sample input: 5
 Sample output:
 *       *
@@ -7,7 +7,11 @@ Sample output:
     *
   *   *
 *       *
+<<<<<<< HEAD
 =================================================================
+=======
+==================================================
+>>>>>>> 005d2177dab726de8075739ce0d122b01a9ddc00
 Author: Uzzal_Bhuiyan
 Version: 1.0
 

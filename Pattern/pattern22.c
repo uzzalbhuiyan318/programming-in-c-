@@ -1,5 +1,5 @@
 /*
-Take an input from user and print cross shape or X shape pattern.
+Take an input from user and print the following triangle
 Sample input: 5
 Sample output:
 *
