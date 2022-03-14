@@ -1,7 +1,15 @@
 /*
-Take an input from user and print cross shape or X shape pattern.
+Take an input from user and print following shape (cross shape or X shape)
 Sample input: 5
 Sample output:
+*       *
+  *   *
+    *
+  *   *
+*       *
+==================================================
+Author: Uzzal_Bhuiyan
+Version: 1.0
 
 */
 #include <stdio.h>
